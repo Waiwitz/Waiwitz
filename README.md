@@ -29,22 +29,7 @@
 </div>
 
 ###
-
-<h2 align="center">try to leaning</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-</div>
-
-###
+<hr />
 
 <div align="center">
   <a href="https://open.spotify.com/user/mek7nt6bmw3kjxdii5x2vfh06">
